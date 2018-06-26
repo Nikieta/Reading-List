@@ -5,3 +5,4 @@
 5. Surviving Graduate School : https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf
 6. VAEs : https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/
 7. Understanding entropy of discrete probability distribution : https://tdhopper.com/blog/entropy-of-a-discrete-probability-distribution/ 
+8.https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
